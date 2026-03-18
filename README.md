@@ -65,7 +65,7 @@ To ensure code reuse and high maintainability, I implemented a strict POM struct
 
 ### Setup Instructions
 
-1.  git clone \[https://github.com/Quasem/assessment-2-saucedemo.git\](https://github.com/Quasem/assessment-2-saucedemo.git)
+1.  git clone \[https://github.com/Quasem/assessment-2-saucedemo.git\]
     
 2.  cd assessment-2-saucedemo
     
